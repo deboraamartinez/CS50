@@ -1,0 +1,4 @@
+Get the number
+filter between 1 to 8
+put the height
+do the pyramid
